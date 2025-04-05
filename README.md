@@ -83,7 +83,7 @@
 
 <section id="about">
   <h2>About Me</h2>
-  <p>i am an student studying in .</p>
+  <p>i am an student studying in prince shri venkateshwara arts and science college.</p>
 </section>
 
 <section id="education">
